@@ -1,0 +1,25 @@
+@media screen and (max-width:1000px){
+    nav{
+            flex-direction: column;
+            height: 240px;
+            margin: -50px 0 -50px 0px;
+            justify-content: center;
+            align-items: center;
+    }
+    .search {
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        margin: 0;
+        padding: 0;
+    }
+    /* ---------------------------------------------main-------------------------------------------------------------- */
+
+    .slider{
+        margin: 15px 0 0 0 ;
+    }
+    .slider img{
+        display: flex;
+        justify-content: center;
+    }
+}
